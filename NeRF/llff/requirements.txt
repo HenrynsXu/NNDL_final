@@ -1,7 +1,7 @@
 jupyterlab
-tensorflow
+tensorflow-gpu == 1.*
 matplotlib
 scipy
 numpy
 scikit-image
-imageio
+imageio == 2.4.0
